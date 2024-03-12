@@ -20,7 +20,7 @@ body {
 .main-container {
   background-color: white;
   max-width: 350px;
-  min-height: 200px;
+  min-height: 201px;
   height: 100vh;
   text-align: center;
   padding: 2rem;
